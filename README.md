@@ -1,9 +1,10 @@
-# Hello, I'm Luan Plasencia! Full Stack Developer
+# 👋 ¡Hola! Soy Luan  
+### 💻 Full-Stack Developer | React & Node.js  
+🔹 **Tecnologías:** JavaScript, React, Node.js, SQL  
+🔹 **Proyectos destacados:** [Mi Portfolio](https://tu-portfolio.com), [App de Notas](https://github.com/luan/notas)  
+🔹 **Conéctate conmigo:** [LinkedIn](https://linkedin.com/in/luan)  
 
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+---
+🌱 Siempre aprendiendo nuevas tecnologías y creando proyectos interesantes.
 
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
